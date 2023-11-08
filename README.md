@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jannatun Nur</h1>
+<h1 align="center">It's JANNATUN NUR</h1>
 <h3 align="center">I'M learning web development as I want to build up my career as a MERN Stack Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannatun-nur&label=Profile%20views&color=0e75b6&style=flat" alt="jannatun-nur" /> </p>
