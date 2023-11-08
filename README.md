@@ -1,5 +1,5 @@
+![coding girl](https://i.imgur.com/rHlEdDq.gif)
 
-![till](https://https://miro.medium.com/v2/resize:fit:720/1*Wp_7ybkx2AlpQgjDVGSw0A.gif)
 <h1 align="center">Hi!, I'm JANNATUN NUR</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
