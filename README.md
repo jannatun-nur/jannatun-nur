@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS.**
 
-- 📫 How to reach me **jannatunnur03@gmail.com**
+- 📫Get me by **jannatunnur03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
