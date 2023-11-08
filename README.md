@@ -5,16 +5,16 @@
 
 - 📫 How to reach me **jannatunur03@gmail.com**
   
-<div display="flex">
-<section>
+
+<section align="start">
   <h3>About me</h3>
 </section>
 
-<section>
+<section align="end">
   ![coding girl](https://miro.medium.com/v2/resize:fit:720/1*Wp_7ybkx2AlpQgjDVGSw0A.gif)
 </section>
   
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
