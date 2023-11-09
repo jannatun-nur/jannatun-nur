@@ -6,7 +6,7 @@
 - 📫 How to reach me **jannatunur03@gmail.com**
   
 
-  <div class="container, flex">
+  <div class="flex">
     <div class="item">1</div>
     <div class="item">2</div>
    
