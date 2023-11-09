@@ -8,7 +8,7 @@
 
   <div class="flex">
     <div align="start">About me</div>
-    <div  align="end"><img src="[https://ibb.co/pKwgS8M](https://cdn.vectorstock.com/i/preview-1x/14/08/girl-sitting-and-typing-on-her-laptop-cartoon-vector-42501408.webp)"/></div>
+    <div  align="end"><img src="[!image](https://cdn.vectorstock.com/i/preview-1x/14/08/girl-sitting-and-typing-on-her-laptop-cartoon-vector-42501408.webp)"/></div>
    
   </div>
 
