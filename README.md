@@ -7,8 +7,8 @@
   
 
   <div class="flex">
-    <div align="start">1</div>
-    <div  align="end">2</div>
+    <div align="start">About me</div>
+    <div  align="end"><img src="https://ibb.co/pKwgS8M"/></div>
    
   </div>
 
