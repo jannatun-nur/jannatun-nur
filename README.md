@@ -6,13 +6,27 @@
 - 📫 How to reach me **jannatunur03@gmail.com**
   
 
-<section align="start">
-  <h3>About me</h3>
-</section>
+  <div class="container">
+    <div class="item">1</div>
+    <div class="item">2</div>
+    <div class="item">3</div>
+  </div>
 
-<section align="end">
-  ![coding girl](https://miro.medium.com/v2/resize:fit:720/1*Wp_7ybkx2AlpQgjDVGSw0A.gif)
-</section>
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    display: flex;
+    background: #FAFFFC;
+    border: 5px solid #182945;
+  }
+  .item {
+    background: #9EDDEB;
+    padding: 40px 50px;
+    font-size: 34px;
+    margin: 10px;
+  }>
   
 
 <h3 align="left">Connect with me:</h3>
