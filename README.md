@@ -7,8 +7,8 @@
   
 
   <div class="flex">
-    <div class="item">1</div>
-    <div class="item">2</div>
+    <div align="start">1</div>
+    <div  align="end">2</div>
    
   </div>
 
