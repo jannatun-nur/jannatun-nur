@@ -7,7 +7,9 @@
   
 
   <div class="flex">
-    <div align="start">About me</div>
+    <div align="start">About me
+      <h1>Jnatun Nur</h1>
+    </div>
     <div  align="end"><img src="image.jpg"/></div>
    
   </div>
